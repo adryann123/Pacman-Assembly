@@ -15,7 +15,7 @@ https://github.com/simoesusp , segue as fotos abaixo do meu projeto:
 
 <img width="651" height="489" alt="Screenshot from 2026-04-22 15-27-42" src="https://github.com/user-attachments/assets/51a3c6ff-40ed-4336-abfb-a2f7b2203d10" />
 
-## Tela de voce venceu:
+## Tela de você venceu:
 
 <img width="651" height="489" alt="Screenshot from 2026-04-22 15-30-17" src="https://github.com/user-attachments/assets/3643d56f-33b2-4559-9f64-610fb693ec99" />
 
